@@ -1,0 +1,31 @@
+.js-toDoForm{
+    margin-top: 3rem;
+    text-align: center;
+}
+.list{
+    margin: 0, auto;
+    color : white;
+    font-size: 20px;
+}
+.js-toDoList{
+    list-style-type: none;
+    text-align: center;
+}
+.toDo_delBtn{
+    margin-left: 5px;
+    opacity: 0.9;
+    border: none;
+    width: 16px;
+    height: 16px;
+    background: url( "image/xbutton3.png" ) no-repeat;
+    cursor: pointer;
+}
+.today{
+    display: none;
+}
+.js-today{
+    color: white;
+    text-align: center;
+    font-size: 15px;
+    margin-bottom: 0;
+}

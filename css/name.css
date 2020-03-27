@@ -1,0 +1,17 @@
+
+.js-name{
+    text-align: center;
+}
+.js-greeting{
+    text-align: center;
+    color: white;
+    font-size: 2rem;
+    margin: 0;
+}
+.name, .greeting{
+    display: none;
+}
+
+.showing{
+    display: block;
+}
